@@ -1,0 +1,7 @@
+opencv-python==4.5.4.60
+streamlit==1.10.0
+fastapi==0.79.0
+uvicorn==0.16.0
+flask==2.0.3
+pywebio==1.6.1
+numpy==1.18.5
